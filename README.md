@@ -1,2 +1,2 @@
 # Hospital-room
-##Hospital dash board created using Power Bi SQL & Excel 
+#Hospital dash board created using Power Bi SQL & Excel 
